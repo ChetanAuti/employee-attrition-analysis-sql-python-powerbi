@@ -67,7 +67,12 @@ A fully interactive one-page dashboard was created.
 •	Salary Band slicer                                                            
 •	Job Role slicer                                                              
 •	Dynamic KPI updates                                                                        
-________________________________________                                                                  
+
+📈 Power BI Dashboard                                             
+<img width="1313" height="707" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/6a2ad2a0-5941-4795-a4bf-b17622c84e23" />
+
+
+_______________________________________                                                                  
 🔍 Key Insights                                                                                      
 •	Employees in the Low Salary Band show higher attrition.                                                            
 •	Overtime significantly increases exit probability.                                                              
